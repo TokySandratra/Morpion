@@ -1,0 +1,15 @@
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\bin\Debug\net6.0\Morpion.exe
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\bin\Debug\net6.0\Morpion.deps.json
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\bin\Debug\net6.0\Morpion.runtimeconfig.json
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\bin\Debug\net6.0\Morpion.dll
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\bin\Debug\net6.0\Morpion.pdb
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\Morpion.csproj.AssemblyReference.cache
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\Morpion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\Morpion.AssemblyInfoInputs.cache
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\Morpion.AssemblyInfo.cs
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\Morpion.csproj.CoreCompileInputs.cache
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\Morpion.dll
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\refint\Morpion.dll
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\Morpion.pdb
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\Morpion.genruntimeconfig.cache
+D:\Studies\myStuff\C#\Exo Elephorm\Morpion\Morpion\obj\Debug\net6.0\ref\Morpion.dll
